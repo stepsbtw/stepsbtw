@@ -10,15 +10,15 @@ Hey there! I'm a Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
 - 🧠 Love using math to optimize my code.
 - 📊 Interested in specializing in data science, neural networks, and data analytics.
 - 🧩 Linear Algebra and Discrete Maths Enthusiast!
-- 🐺 Trainee member in Wolfbyte IA at IEEE CEFETRJ student branch.
+- 🐺 Trainee member in Wolfbyte IA at IEEE CEFET/RJ student branch.
 
 ## Interests
 
 Apart from coding, I have a wide range of interests:
 
 - 🎨 I'm a lover of art - be it drawing, music, animation, comics, or anything creative.
-- 🎲 Enjoy tabletop RPGs.
-- 🏐 Play volleyball.
+- 🎲 Tabletop RPGs.
+- 🏐 Volleyball.
 
 ## Current Focus
 
