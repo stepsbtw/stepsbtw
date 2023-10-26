@@ -30,4 +30,4 @@ I'm currently delving into:
 
 ## Let's Connect 🌐
 
-Feel free to reach out to me for collaborations, discussions,or just to say hi! You can also find me on [LinkedIn](https://linkedin.com/in/caio-torkst) [Discord](https://discord.com/users/236648689915920385) and [Replit](https://replit.com/@stepscaio)
+Feel free to reach out to me for collaborations, discussions,or just to say hi! You can also find me on [LinkedIn](https://linkedin.com/in/caio-torkst), [Discord](https://discord.com/users/236648689915920385) and [Replit](https://replit.com/@stepscaio)
