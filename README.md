@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 🚀
+# Welcome! 🚀
 
 Hey there! I'm a Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil. I'm 18 years old and passionate about coding and math.
 
@@ -6,8 +6,7 @@ Hey there! I'm a Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
 
 - 💻 Proficient in C, C++, Python, and Java.
 - 📊 Experienced with Python libraries like Pandas, Numpy, Matplotlib, Keras, and TensorFlow.
-- 🧠 Love using math to optimize my code.
-- 📊 Interested in specializing in data science, neural networks, and data analytics.
+- 📊 Specializing in data science, neural networks, and data analytics.
 - 🐺 Member of Wolfbyte IA at IEEE CEFET/RJ student branch.
 
 ## Current Focus
