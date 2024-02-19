@@ -1,6 +1,6 @@
 # Welcome! 🚀
 
-Hey there! I'm a Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil. I'm 18 years old and passionate about coding and math.
+Hey there! I'm a Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil. I'm 19 years old and passionate about coding and math.
 
 ## About Me
 
