@@ -4,9 +4,10 @@ Hey there! I'm a Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
 
 ## About Me
 
-- 💻 Proficient in C, C++, Python, and Java.
-- 📊 Experienced with Python libraries like Pandas, Numpy, Matplotlib, Keras, and TensorFlow.
-- 📊 Specializing in data science, neural networks, and data analytics.
+- 💻 Proficient in Python, C++ and Java.
+- 🤖 Studying some Julia and R for research purposes.
+- 📊 I use Python libraries like Pandas, Numpy, Matplotlib, Keras, and TensorFlow.
+- 📊 Specializing in Data Science and Security.
 - 🐺 Member of Wolfbyte IA at IEEE CEFET/RJ student branch.
 
 ## Current Focus
@@ -15,7 +16,10 @@ I'm currently delving into:
 
 - 🧪 Data Analytics
 - 🤖 AI and Machine learning.
-- 🔐 Cybersecurity and Criptography
+- 📈 Lots of Maths.
+
+
+[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepsbtw)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect 🌐
 
