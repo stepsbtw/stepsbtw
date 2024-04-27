@@ -1,22 +1,19 @@
-# Welcome! 🚀
+# Hey there! 🚀
 
-Hey there! I'm a Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil. I'm 19 years old and passionate about coding and math.
+I'm a Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil. I'm 19 years old and passionate about coding and math.
 
 ## About Me
 
-- 💻 Proficient in Python, C++ and Java.
-- 🤖 Studying some Julia and R for research purposes.
+- 💻 Studying Python, C++ and Java.
 - 📊 I use Python libraries like Pandas, Numpy, Matplotlib, Keras, and TensorFlow.
-- 📊 Specializing in Data Science and Security.
 - 🐺 Member of Wolfbyte IA at IEEE CEFET/RJ student branch.
+- 📈 Love Maths.
 
 ## Current Focus
 
 I'm currently delving into:
-
-- 🧪 Data Analytics
+- 🧪 Linear Programing
 - 🤖 AI and Machine learning.
-- 📈 Lots of Maths.
 
 ## Let's Connect 🌐
 
