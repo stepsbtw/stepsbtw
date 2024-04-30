@@ -9,7 +9,7 @@ Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
 - 🔢 Learning Matlab!
 - 📊 I tend to use Python libraries like : Pandas, Numpy, Matplotlib, Keras, and TensorFlow.
 - 🐺 Active member of Wolfbyte AI at IEEE CEFET/RJ student branch.
-- 📈 Love Maths. -> currently making a study
+- 📈 Love Maths.
 
 ## Current Focus
 
