@@ -1,22 +1,22 @@
-# Hey there! 🚀
+# Sup! Passos (Steps) here. 🚀
 
-I'm 19 years old and passionate about coding and math.
+I'm 19 years old and i have a passion for coding (or maybe hatred).
 Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
 
 ## About Me
 
-- 💻 In a continuous love/hate relationship with Python, C++ and Java.
-- 🔢 Learning Matlab!
-- 📊 I tend to use Python libraries like : Pandas, Numpy, Matplotlib, Keras, and TensorFlow.
 - 🐺 Active member of Wolfbyte AI at IEEE CEFET/RJ student branch.
-- 📈 Love Maths.
+- 📈 Love Maths. (every part of it. yeah even that part.)
+- 💻 In a love/hate relationship with C#(.NET), Python, C++ and Java.
 
 ## Current Focus
 
-- 🧪 Linear Programing and Combinatorial Optimization. -> my scientific research theme!
-- 🤖 AI and Machine learning.
-- 🗿 Especializing myself in Computer Vision.
-- ⚙️ Low level coding.
+- 🧪 Integer Linear Programming -> my scientific research theme! (Matlab/Python)
+- 🤖 Machine Learning and Computer Vision (Python/C++)
+- 📊 Exploratory Data Analysis (Python)
+- ⚙️ Low level coding. (C++)
+- 🗿 Gamedev (C#)
+   
 
 ## Let's Connect 🌐
 
