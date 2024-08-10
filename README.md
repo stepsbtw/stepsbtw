@@ -1,4 +1,4 @@
-# The Adventures of Caio Passos in the Coding World 🌟
+# Caio 'Steps' Coding Adventures 🌟
 
 [🇺🇸 English](#english) | [🇧🇷 Português](#português)
 
