@@ -1,4 +1,4 @@
-# Hello World! - Caio 'Steps' Coding Adventures 🌟 
+<h1 align='Center'>Hello World!, I'm Caio 'Steps' 🌟 </h1>
 
 [🇺🇸 English](#english) | [🇧🇷 Português](#português)
 
