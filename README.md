@@ -1,9 +1,6 @@
 <h1 align='Center'>Hello World!, I'm Caio 'Steps' 🌟 </h1>
 
-[🇺🇸 English](#english) | [🇧🇷 Português](#português)
-
----
-## English
+[🇺🇸 English](#english)
 
 I'm 19 years old and I have a passion for coding (or maybe hatred).
 Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
@@ -28,7 +25,16 @@ Feel free to reach out to me for collaborations, discussions, or just to say hi!
 You can also find me on [LinkedIn](https://linkedin.com/in/caio-torkst), [Discord](https://discord.com/users/236648689915920385), and [Replit](https://replit.com/@stepscaio).
 
 ---
-## Português
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,c" />
+  </a>
+</p>
+
+---
+
+[🇧🇷 Português](#português)
 
 Tenho 19 anos e uma paixão por programação (ou talvez ódio).
 Estudante de Ciência da Computação no CEFET/RJ no Rio de Janeiro, Brasil.
