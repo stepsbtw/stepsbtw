@@ -1,6 +1,6 @@
 <h1 align='Center'>Hello World!, I'm Caio 'Steps' 🌟 </h1>
 
-[🇺🇸 English](#english)
+[🇺🇸 English](#english) | [🇧🇷 Português](#português)
 
 I'm 19 years old and I have a passion for coding (or maybe hatred).
 Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
@@ -31,29 +31,3 @@ You can also find me on [LinkedIn](https://linkedin.com/in/caio-torkst), [Discor
     <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,c" />
   </a>
 </p>
-
----
-
-[🇧🇷 Português](#português)
-
-Tenho 19 anos e uma paixão por programação (ou talvez ódio).
-Estudante de Ciência da Computação no CEFET/RJ no Rio de Janeiro, Brasil.
-
-### Sobre Mim
-
-- 🐺 Membro ativo da Wolfbyte AI no ramo estudantil IEEE CEFET/RJ.
-- 📈 Amo Matemática. (todas as partes, sim até aquela parte).
-- 💻 Em uma relação de amor/ódio com C#(.NET), Python, C++ e Java.
-
-### Foco Atual
-
-- 🧪 Programação Linear Inteira -> meu tema de pesquisa científica! (Matlab/Python)
-- 🤖 Aprendizado de Máquina e Visão Computacional (Python/C++)
-- 📊 Análise Exploratória de Dados (Python)
-- ⚙️ Programação de baixo nível. (C++)
-- 🗿 Desenvolvimento de Jogos (C#)
-
-### Vamos Conectar 🌐
-
-Fique à vontade para me contatar para colaborações, discussões ou apenas para dizer oi!
-Você também pode me encontrar no [LinkedIn](https://linkedin.com/in/caio-torkst), [Discord](https://discord.com/users/236648689915920385), e [Replit](https://replit.com/@stepscaio).
