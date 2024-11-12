@@ -27,6 +27,6 @@ Feel free to reach out to me! [LinkedIn](https://linkedin.com/in/caio-torkst), [
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,R,cs,java,matlab,c" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,r,cs,java,matlab,c" />
   </a>
 </p>
