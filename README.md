@@ -1,21 +1,23 @@
-<h1 align='Center'>Hello World!, I'm Caio 'Steps' 🌟 </h1>
+<h1 align='Center'> i'm caio "steps" and passionate about coding and math. </h1>
 
 [🇺🇸 English](#english) | [🇧🇷 Português](#português)
+I'm 19 years old, Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
 
-I'm 19 years old and I have a passion for coding (or maybe hatred).
-Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
-
-### About Me
+### Who am I?
 
 - 🐺 Active member of Wolfbyte AI at IEEE CEFET/RJ student branch.
-- 📈 I love Math. (every part of it. yeah even that part.)
-- 💻 In an instable relationship with C#(.NET), Python, C++ and Java.
-- ⚙️ Competitive Programming enthusiast (C++)
+- 🖥️ Member of Brazilian Computing Society
+- ⚙️ Competitive Programming enthusiast!
+        -> Participated : IEEEXTREME 18.0, OBI ( Brazilian Olympiad in Informatics ), MARATONA SBC ( ICPC - Brazilian Branch ) 
+- 📈 I'm fond of using math to solve problems.
+- 👨‍💻 In an instable relationship with Python, C++ and Java.
 
-### Current Focus
+### What am I studying?
 
-- 🧪 Integer Linear Programming -> my scientific research theme! (Matlab/Python)
-- 🤖 Machine Learning and Computer Vision (Python/C++)
+- 🧪 Integer Linear Programming -> my scientific research theme!
+        -> Travelling Salesman Problem!
+- 🧠 Sthocastic Optimization
+- 🤖 Machine Learning and Computer Vision
 
 ### Let's Connect 🌐
 
@@ -25,6 +27,6 @@ Feel free to reach out to me! [LinkedIn](https://linkedin.com/in/caio-torkst), [
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,cs,java,matlab,c" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,R,cs,java,matlab,c" />
   </a>
 </p>
