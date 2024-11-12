@@ -1,6 +1,7 @@
 <h1 align='Center'> I'm caio "steps", passionate about coding & math. </h1>
 
 [🇺🇸 English](#english) | [🇧🇷 Português](#português)
+
 I'm 19 years old, Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
 
 ### Who am I?
