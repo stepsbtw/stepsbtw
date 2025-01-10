@@ -2,7 +2,7 @@
 
 [🇺🇸 English](#english) | [🇧🇷 Português](#português)
 
-I'm 19 years old, Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
+I'm 20 years old, Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil.
 
 ### Who am I?
 
