@@ -9,16 +9,19 @@ I'm 20 years old, Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil
 - 🐺 Active member of Wolfbyte AI at IEEE CEFET/RJ student branch.
 - 🖥️ Member of Brazilian Computing Society
 - ⚙️ Competitive Programming enthusiast!
-        -> Participated : IEEEXTREME 18.0, OBI ( Brazilian Olympiad in Informatics ), MARATONA SBC ( ICPC - Brazilian Branch ) 
+        -> Participated : IEEEXTREME 18.0, OBI ( Brazilian Olympiad in Informatics ), MARATONA SBC 2024 ( ICPC - Brazilian Branch ), MARATONA FASE ZERO 2025
 - 📈 I'm fond of using math to solve problems.
-- 👨‍💻 In an instable relationship with Python, C++ and Java.
 
 ### What am I studying?
 
-- 🧪 Integer Linear Programming -> my scientific research theme!
+- 🧪 Integer Linear Programming -> my research theme!
         -> Travelling Salesman Problem!
-- 🧠 Sthocastic Optimization
-- 🤖 Machine Learning and Computer Vision
+- 🌐 Combinatorial Optimization in General! (Knapsack Problem with Forfeits) -> researching!
+- 🤖 Machine Learning and Computer Vision -> working with
+- ⚛️ Quantum Computing
+        -> Grover's Algorithm, QAOA -> my new research theme!
+
+- I enjoy studying and analyzing algorithms.
 
 ### Let's Connect 🌐
 
