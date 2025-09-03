@@ -14,10 +14,9 @@ I'm 20 years old, Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil
 
 ### What am I studying?
 
-- 🧪 Integer Linear Programming -> my research theme!
+- 🧪 Integer Linear Programming / Combinatorial Optimization -> my research theme!
         -> Travelling Salesman Problem!
-- 🌐 Combinatorial Optimization in General! (Knapsack Problem with Forfeits) -> researching!
-- 🤖 Machine Learning and Computer Vision -> working with
+- 🤖 Machine Learning, Computer Vision and Data Fusion -> Researching at IPQM (Instituto de Pesquisas da Marinha)
 - ⚛️ Quantum Computing
         -> Grover's Algorithm, QAOA -> my new research theme!
 
