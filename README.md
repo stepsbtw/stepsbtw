@@ -12,7 +12,7 @@ Programming competitions I participated: IEEEXTREME 18.0, OBI ( Brazilian Olympi
 - Machine Learning, Computer Vision and Data Fusion -> research and development at IPqM !
 - Quantum Computing -> Grover's Algorithm and Quantum Annealing (QAOA) : my new research theme!
 
-[LinkedIn](https://linkedin.com/in/caio-torkst) - [Lattes](http://lattes.cnpq.br/8952512281766884) - 
+[LinkedIn](https://linkedin.com/in/caio-torkst) - [Lattes](http://lattes.cnpq.br/8952512281766884)
 
 ---
 
