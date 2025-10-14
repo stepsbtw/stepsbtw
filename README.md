@@ -18,13 +18,12 @@ I'm 20 years old, Computer Science student at CEFET/RJ in Rio de Janeiro, Brasil
         -> Travelling Salesman Problem!
 - 🤖 Machine Learning, Computer Vision and Data Fusion -> Researching at IPQM (Instituto de Pesquisas da Marinha)
 - ⚛️ Quantum Computing
-        -> Grover's Algorithm, QAOA -> my new research theme!
-
-- I enjoy studying and analyzing algorithms.
+        -> Grover's Algorithm
+        -> Quantum Annealing (QAOA) : my new research theme!
 
 ### Let's Connect 🌐
 
-Feel free to reach out to me! [LinkedIn](https://linkedin.com/in/caio-torkst), [Discord](https://discord.com/users/236648689915920385)
+Feel free to reach out to me! [LinkedIn](https://linkedin.com/in/caio-torkst)
 
 ---
 
