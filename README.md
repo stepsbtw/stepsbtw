@@ -18,6 +18,6 @@ Programming competitions I participated: IEEEXTREME 18.0, OBI ( Brazilian Olympi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,matlab,c" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,c" />
   </a>
 </p>
