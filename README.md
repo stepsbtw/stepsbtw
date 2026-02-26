@@ -1,8 +1,6 @@
 <h1 align='Center'> I'm caio "steps", passionate about coding & math. </h1>
 
-[🇺🇸 English](#english) | [🇧🇷 Português](#português)
-
-I'm 21 years old, Computer Science student at CEFET/RJ (Centro Federal de Educação Tecnológica Celso Suckow da Fonseca). Researcher at Instituto de Pesquisas da Marinha (IPqM). Voluntary student at IMPA (Instituto de Matemática Pura e Aplicada)
+I'm a Computer Science student at CEFET/RJ (Federal Center for Technological Education of Rio de Janeiro). Researcher at IPqM (Brazilian Navy Research Instutute). Voluntary student at IMPA (Institute of Pure and Applied Mathematics)
 
 ### What am I studying?
 
